@@ -1,0 +1,14 @@
+.container p,
+pre,
+ul,
+table {
+    font-size: 80%;
+}
+
+.container span {
+    color: purple;
+}
+
+.Red {
+    color: red;
+}

@@ -1,0 +1,14 @@
+p {
+    width: 200px;
+    height: 50px;
+    font-size: x-large;
+    background-color: rgb(234, 234, 234);
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
